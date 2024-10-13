@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1699906158 source:c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\main.cpp
+	<iostream>
+	"funcoesInsertionSort.h"
+	"funcSelectionSort.h"
+	"funcMain.h"
+	"funcShellSort.h"
+	"filesFunctions.h"
+	"funcBubbleSort.h"
+	"vectorsFunctions.h"
+	"funcQuickSort.h"
+	"funckQuickSort2.h"
+	"funcQuickSort3.h"
+	"funcQuickSort4.h"
+	"funcMergeSort.h"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<filesystem>
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcoesinsertionsort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcselectionsort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699905793 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcmain.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	"funcoesInsertionSort.h"
+	"funcSelectionSort.h"
+	"funcMain.h"
+	"funcShellSort.h"
+	"filesFunctions.h"
+	"funcBubbleSort.h"
+	"vectorsFunctions.h"
+	"funcQuickSort.h"
+	"funckQuickSort2.h"
+	"funcQuickSort3.h"
+	"funcQuickSort4.h"
+	"funcMergeSort.h"
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcshellsort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699907286 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\filesfunctions.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<string>
+	<windows.h>
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcbubblesort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894183 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\vectorsfunctions.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcquicksort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funckquicksort2.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894886 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcquicksort3.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894896 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcquicksort4.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<ctime>
+
+1699905566 c:\users\peluc\downloads\progamacao oo\novoprojetodealgoritmos\funcmergesort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<ctime>
+
+1699919440 source:c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\main.cpp
+	<iostream>
+	"funcoesInsertionSort.h"
+	"funcSelectionSort.h"
+	"funcMain.h"
+	"funcShellSort.h"
+	"filesFunctions.h"
+	"funcBubbleSort.h"
+	"vectorsFunctions.h"
+	"funcQuickSort.h"
+	"funckQuickSort2.h"
+	"funcQuickSort3.h"
+	"funcQuickSort4.h"
+	"funcMergeSort.h"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894886 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcoesinsertionsort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894886 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcselectionsort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699923253 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcmain.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	"funcoesInsertionSort.h"
+	"funcSelectionSort.h"
+	"funcMain.h"
+	"funcShellSort.h"
+	"filesFunctions.h"
+	"funcBubbleSort.h"
+	"vectorsFunctions.h"
+	"funcQuickSort.h"
+	"funckQuickSort2.h"
+	"funcQuickSort3.h"
+	"funcQuickSort4.h"
+	"funcMergeSort.h"
+
+1699894886 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcshellsort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699916908 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\filesfunctions.h
+	<iostream>
+	<vector>
+	<direct.h>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<string>
+	<windows.h>
+
+1699894886 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcbubblesort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699894183 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\vectorsfunctions.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+
+1699923223 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcquicksort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<ctime>
+	<stack>
+
+1699923223 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funckquicksort2.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<ctime>
+	<stack>
+
+1699923235 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcquicksort3.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<stack>
+	<algorithm>
+
+1699923223 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcquicksort4.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<ctime>
+	<stack>
+
+1699916503 c:\users\peluc\downloads\projetopacode\novoprojetodealgoritmos\codigo\funcmergesort.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<ctime>
+
